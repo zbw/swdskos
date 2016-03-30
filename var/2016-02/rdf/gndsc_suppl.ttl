@@ -1,0 +1,1455 @@
+@prefix gndsc: <http://d-nb.info/standards/vocab/gnd/gnd-sc#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+gndsc:17.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "17.2" .
+
+gndsc:27.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.3" .
+
+gndsc:5.2  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "5.2" .
+
+gndsc:31.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.1" .
+
+gndsc:6.3b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.3b" .
+
+gndsc:10.3c  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.3c" .
+
+gndsc:11.3d  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "11.3d" .
+
+gndsc:9.3e  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.3e" .
+
+gndsc:16.4d  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "16.4d" .
+
+gndsc:14  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "14" .
+
+gndsc:13.1a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.1a" .
+
+gndsc:17.4p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "17.4p" .
+
+gndsc:31.1b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.1b" .
+
+gndsc:3.4a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.4a" .
+
+gndsc:15.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "15.3" .
+
+gndsc:10.7p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.7p" .
+
+gndsc:3.3  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.3" .
+
+gndsc:26  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "26" .
+
+gndsc:27.16  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.16" .
+
+gndsc:32.9  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "32.9" .
+
+gndsc:10.11a  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.11a" .
+
+gndsc:7.11a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.11a" .
+
+gndsc:10.4p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.4p" .
+
+gndsc:10.1p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.1p" .
+
+gndsc:15.2p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "15.2p" .
+
+gndsc:3.5c  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.5c" .
+
+gndsc:7.7  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.7" .
+
+gndsc:13.4  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.4" .
+
+gndsc:9  a             gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9" .
+
+gndsc:10.8  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.8" .
+
+gndsc:5.5p  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "5.5p" .
+
+gndsc:7.12c  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.12c" .
+
+gndsc:13.6p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.6p" .
+
+gndsc:31.11  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.11" .
+
+gndsc:27.1b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.1b" .
+
+gndsc:7.14  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.14" .
+
+gndsc:10.14  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.14" .
+
+gndsc:8.4  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "8.4" .
+
+gndsc:14.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "14.1" .
+
+gndsc:24.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "24.2" .
+
+gndsc:34.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "34.3" .
+
+gndsc:2.1  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "2.1" .
+
+gndsc:27.9  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.9" .
+
+gndsc:19.4b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.4b" .
+
+gndsc:3.6p  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.6p" .
+
+gndsc:31.7  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.7" .
+
+gndsc:19.1b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.1b" .
+
+gndsc:24.2a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "24.2a" .
+
+gndsc:25.2b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "25.2b" .
+
+gndsc:10.13p  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.13p" .
+
+gndsc:3.5bb  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.5bb" .
+
+gndsc:27.9f  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.9f" .
+
+gndsc:9.1  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.1" .
+
+gndsc:10.10p  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.10p" .
+
+gndsc:21  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "21" .
+
+gndsc:9.4b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.4b" .
+
+gndsc:12.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "12.2" .
+
+gndsc:27.11  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.11" .
+
+gndsc:6.5  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.5" .
+
+gndsc:22.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "22.3" .
+
+gndsc:32.4  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "32.4" .
+
+gndsc:9.1b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.1b" .
+
+gndsc:10.2ea  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.2ea" .
+
+gndsc:11.1a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "11.1a" .
+
+gndsc:12.1b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "12.1b" .
+
+gndsc:10.11g  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.11g" .
+
+gndsc:7.8b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.8b" .
+
+gndsc:10.8b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.8b" .
+
+gndsc:19.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.2" .
+
+gndsc:33  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "33" .
+
+gndsc:7.5b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.5b" .
+
+gndsc:4  a             gndsc:GndSubjectCategoryValue ;
+        skos:notation  "4" .
+
+gndsc:7.2  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.2" .
+
+gndsc:31.9a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.9a" .
+
+gndsc:33.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "33.1" .
+
+gndsc:10.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.3" .
+
+gndsc:4.6  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "4.6" .
+
+gndsc:7.2b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.2b" .
+
+gndsc:6.2a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.2a" .
+
+gndsc:10.2b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.2b" .
+
+gndsc:11.2c  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "11.2c" .
+
+gndsc:31.3a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.3a" .
+
+gndsc:13.1cy  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.1cy" .
+
+gndsc:17.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "17.3" .
+
+gndsc:27.4  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.4" .
+
+gndsc:5.3  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "5.3" .
+
+gndsc:21.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "21.1" .
+
+gndsc:31.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.2" .
+
+gndsc:10.3d  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.3d" .
+
+gndsc:15  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "15" .
+
+gndsc:13.1b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.1b" .
+
+gndsc:22.5p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "22.5p" .
+
+gndsc:27.9a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.9a" .
+
+gndsc:10.2dp  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.2dp" .
+
+gndsc:16.1p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "16.1p" .
+
+gndsc:31.1c  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.1c" .
+
+gndsc:3.2ba  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.2ba" .
+
+gndsc:32.10p  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "32.10p" .
+
+gndsc:3.4b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.4b" .
+
+gndsc:15.4  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "15.4" .
+
+gndsc:6.7p  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.7p" .
+
+gndsc:3.4  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.4" .
+
+gndsc:27  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27" .
+
+gndsc:27.17  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.17" .
+
+gndsc:27.3a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.3a" .
+
+gndsc:7.11b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.11b" .
+
+gndsc:10.11b  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.11b" .
+
+gndsc:6.4p  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.4p" .
+
+gndsc:6.1p  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.1p" .
+
+gndsc:10.11m  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.11m" .
+
+gndsc:00m  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "00m" .
+
+gndsc:16.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "16.1" .
+
+gndsc:28p  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "28p" .
+
+gndsc:4.1  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "4.1" .
+
+gndsc:7.8  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.8" .
+
+gndsc:13.5  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.5" .
+
+gndsc:10.9  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.9" .
+
+gndsc:7.12d  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.12d" .
+
+gndsc:31.12  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.12" .
+
+gndsc:7.15  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.15" .
+
+gndsc:10.15  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.15" .
+
+gndsc:14.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "14.2" .
+
+gndsc:24.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "24.3" .
+
+gndsc:9.3a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.3a" .
+
+gndsc:10  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10" .
+
+gndsc:2.2  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "2.2" .
+
+gndsc:19.4c  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.4c" .
+
+gndsc:31.8  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.8" .
+
+gndsc:24.2b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "24.2b" .
+
+gndsc:19.1c  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.1c" .
+
+gndsc:2.3p  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "2.3p" .
+
+gndsc:7.7a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.7a" .
+
+gndsc:10.7a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.7a" .
+
+gndsc:9.2  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.2" .
+
+gndsc:22  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "22" .
+
+gndsc:6.6  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.6" .
+
+gndsc:22.4  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "22.4" .
+
+gndsc:12.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "12.3" .
+
+gndsc:27.12  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.12" .
+
+gndsc:32.5  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "32.5" .
+
+gndsc:7.1a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.1a" .
+
+gndsc:10.1a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.1a" .
+
+gndsc:10.2eb  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.2eb" .
+
+gndsc:11.1b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "11.1b" .
+
+gndsc:9.1c  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.1c" .
+
+gndsc:19.5p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.5p" .
+
+gndsc:10.11h  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.11h" .
+
+gndsc:12.4y  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "12.4y" .
+
+gndsc:25.3p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "25.3p" .
+
+gndsc:19.2p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.2p" .
+
+gndsc:34  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "34" .
+
+gndsc:23.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "23.1" .
+
+gndsc:19.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.3" .
+
+gndsc:5  a             gndsc:GndSubjectCategoryValue ;
+        skos:notation  "5" .
+
+gndsc:7.5c  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.5c" .
+
+gndsc:31.16p  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.16p" .
+
+gndsc:7.3  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.3" .
+
+gndsc:31.9b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.9b" .
+
+gndsc:33.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "33.2" .
+
+gndsc:4.7  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "4.7" .
+
+gndsc:7.2c  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.2c" .
+
+gndsc:10.4  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.4" .
+
+gndsc:6.2b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.2b" .
+
+gndsc:10.2c  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.2c" .
+
+gndsc:9.5p  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.5p" .
+
+gndsc:12.2p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "12.2p" .
+
+gndsc:31.3b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.3b" .
+
+gndsc:23.4p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "23.4p" .
+
+gndsc:3.6a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.6a" .
+
+gndsc:7.10  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.10" .
+
+gndsc:10.10  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.10" .
+
+gndsc:10.9p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.9p" .
+
+gndsc:34.3p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "34.3p" .
+
+gndsc:17.4  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "17.4" .
+
+gndsc:27.5  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.5" .
+
+gndsc:11.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "11.1" .
+
+gndsc:3.3a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.3a" .
+
+gndsc:5.4  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "5.4" .
+
+gndsc:21.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "21.2" .
+
+gndsc:31.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.3" .
+
+gndsc:10.13a  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.13a" .
+
+gndsc:10.6p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.6p" .
+
+gndsc:16  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "16" .
+
+gndsc:7.10a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.10a" .
+
+gndsc:13.1c  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.1c" .
+
+gndsc:10.3p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.3p" .
+
+gndsc:15.4p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "15.4p" .
+
+gndsc:21.5p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "21.5p" .
+
+gndsc:27.9b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.9b" .
+
+gndsc:15.1p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "15.1p" .
+
+gndsc:31.1d  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.1d" .
+
+gndsc:6.1  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.1" .
+
+gndsc:3.4c  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.4c" .
+
+gndsc:5.7p  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "5.7p" .
+
+gndsc:3.5  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.5" .
+
+gndsc:28  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "28" .
+
+gndsc:27.18  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.18" .
+
+gndsc:27.3b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.3b" .
+
+gndsc:7.11c  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.11c" .
+
+gndsc:10.11c  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.11c" .
+
+gndsc:13.5p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.5p" .
+
+gndsc:13.2p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.2p" .
+
+gndsc:16.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "16.2" .
+
+gndsc:4.2  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "4.2" .
+
+gndsc:7.9  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.9" .
+
+gndsc:13.6  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.6" .
+
+gndsc:10.15p  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.15p" .
+
+gndsc:7.12e  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.12e" .
+
+gndsc:7.15p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.15p" .
+
+gndsc:31.13  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.13" .
+
+gndsc:3.2p  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.2p" .
+
+gndsc:10.12p  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.12p" .
+
+gndsc:11  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "11" .
+
+gndsc:14.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "14.3" .
+
+gndsc:11.3a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "11.3a" .
+
+gndsc:9.3b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.3b" .
+
+gndsc:16.4a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "16.4a" .
+
+gndsc:2.3  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "2.3" .
+
+gndsc:19.4d  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.4d" .
+
+gndsc:31.9  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.9" .
+
+gndsc:10.2da  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.2da" .
+
+gndsc:31.3ab  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.3ab" .
+
+gndsc:19.1d  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.1d" .
+
+gndsc:10.2aa  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.2aa" .
+
+gndsc:7.7b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.7b" .
+
+gndsc:10.7b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.7b" .
+
+gndsc:9.3  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.3" .
+
+gndsc:25.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "25.1" .
+
+gndsc:36p  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "36p" .
+
+gndsc:23  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "23" .
+
+gndsc:12.4  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "12.4" .
+
+gndsc:31.8a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.8a" .
+
+gndsc:27.13  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.13" .
+
+gndsc:6.7  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.7" .
+
+gndsc:22.5  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "22.5" .
+
+gndsc:32.6  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "32.6" .
+
+gndsc:7.1b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.1b" .
+
+gndsc:6.1a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.1a" .
+
+gndsc:10.1b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.1b" .
+
+gndsc:11.1c  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "11.1c" .
+
+gndsc:10.11i  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.11i" .
+
+gndsc:27.20p  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.20p" .
+
+gndsc:30p  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "30p" .
+
+gndsc:24.3p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "24.3p" .
+
+gndsc:19.4  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.4" .
+
+gndsc:6  a             gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6" .
+
+gndsc:13.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.1" .
+
+gndsc:7.5d  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.5d" .
+
+gndsc:7.4  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.4" .
+
+gndsc:33.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "33.3" .
+
+gndsc:23.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "23.2" .
+
+gndsc:35  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "35" .
+
+gndsc:9.4ab  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.4ab" .
+
+gndsc:10.5  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.5" .
+
+gndsc:10.2d  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.2d" .
+
+gndsc:11.2p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "11.2p" .
+
+gndsc:13.1cp  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.1cp" .
+
+gndsc:27.8a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.8a" .
+
+gndsc:3.6b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.6b" .
+
+gndsc:10.11  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.11" .
+
+gndsc:7.11  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.11" .
+
+gndsc:8.1  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "8.1" .
+
+gndsc:3.2aa  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.2aa" .
+
+gndsc:33.3p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "33.3p" .
+
+gndsc:27.6  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.6" .
+
+gndsc:11.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "11.2" .
+
+gndsc:3.3b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.3b" .
+
+gndsc:5.5  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "5.5" .
+
+gndsc:21.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "21.3" .
+
+gndsc:31.4  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.4" .
+
+gndsc:10.13b  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.13b" .
+
+gndsc:17  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "17" .
+
+gndsc:7.10b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.10b" .
+
+gndsc:14.4p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "14.4p" .
+
+gndsc:27.9c  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.9c" .
+
+gndsc:31.1e  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.1e" .
+
+gndsc:6.2  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.2" .
+
+gndsc:32.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "32.1" .
+
+gndsc:4.7p  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "4.7p" .
+
+gndsc:3.6  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.6" .
+
+gndsc:29  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "29" .
+
+gndsc:27.19  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.19" .
+
+gndsc:27.3c  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.3c" .
+
+gndsc:10.11d  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.11d" .
+
+gndsc:3.5ca  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.5ca" .
+
+gndsc:9.5a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.5a" .
+
+gndsc:1  a             gndsc:GndSubjectCategoryValue ;
+        skos:notation  "1" .
+
+gndsc:30  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "30" .
+
+gndsc:16.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "16.3" .
+
+gndsc:27.20  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.20" .
+
+gndsc:4.3  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "4.3" .
+
+gndsc:9.2a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.2a" .
+
+gndsc:12.2a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "12.2a" .
+
+gndsc:13.7  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.7" .
+
+gndsc:00  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "00" .
+
+gndsc:10.9a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.9a" .
+
+gndsc:31.14  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.14" .
+
+gndsc:7.9a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.9a" .
+
+gndsc:23.1a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "23.1a" .
+
+gndsc:2.2p  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "2.2p" .
+
+gndsc:7.6a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.6a" .
+
+gndsc:10.6a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.6a" .
+
+gndsc:27.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.1" .
+
+gndsc:14.4  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "14.4" .
+
+gndsc:10.3a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.3a" .
+
+gndsc:11.3b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "11.3b" .
+
+gndsc:9.3c  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.3c" .
+
+gndsc:16.4b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "16.4b" .
+
+gndsc:12  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "12" .
+
+gndsc:10.2db  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.2db" .
+
+gndsc:19.4p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.4p" .
+
+gndsc:10.2ab  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.2ab" .
+
+gndsc:32.1a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "32.1a" .
+
+gndsc:9.4  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.4" .
+
+gndsc:18p  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "18p" .
+
+gndsc:15.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "15.1" .
+
+gndsc:25.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "25.2" .
+
+gndsc:3.1  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.1" .
+
+gndsc:31.8b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.8b" .
+
+gndsc:24  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "24" .
+
+gndsc:6.8  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.8" .
+
+gndsc:27.14  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.14" .
+
+gndsc:32.7  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "32.7" .
+
+gndsc:5.1a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "5.1a" .
+
+gndsc:6.1b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.1b" .
+
+gndsc:10.1c  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.1c" .
+
+gndsc:12.4p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "12.4p" .
+
+gndsc:12.1p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "12.1p" .
+
+gndsc:7.5  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.5" .
+
+gndsc:3.5a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.5a" .
+
+gndsc:10.8p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.8p" .
+
+gndsc:19.5  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.5" .
+
+gndsc:7.15a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.15a" .
+
+gndsc:7.5e  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.5e" .
+
+gndsc:7  a             gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7" .
+
+gndsc:13.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.2" .
+
+gndsc:23.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "23.3" .
+
+gndsc:36  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "36" .
+
+gndsc:3.2a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.2a" .
+
+gndsc:10.6  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.6" .
+
+gndsc:10.12a  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.12a" .
+
+gndsc:7.12a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.12a" .
+
+gndsc:10.2e  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.2e" .
+
+gndsc:10.5p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.5p" .
+
+gndsc:32.10  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "32.10" .
+
+gndsc:15.3p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "15.3p" .
+
+gndsc:3.2-3.6  a       gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.2-3.6" .
+
+gndsc:3.6c  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.6c" .
+
+gndsc:27.8b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.8b" .
+
+gndsc:7.12  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.12" .
+
+gndsc:10.12  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.12" .
+
+gndsc:8.2  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "8.2" .
+
+gndsc:34.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "34.1" .
+
+gndsc:27.7  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.7" .
+
+gndsc:11.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "11.3" .
+
+gndsc:5.6  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "5.6" .
+
+gndsc:3.3c  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.3c" .
+
+gndsc:21.4  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "21.4" .
+
+gndsc:31.5  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.5" .
+
+gndsc:13.7p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.7p" .
+
+gndsc:18  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "18" .
+
+gndsc:13.4p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.4p" .
+
+gndsc:27.9d  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.9d" .
+
+gndsc:6.3  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.3" .
+
+gndsc:22.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "22.1" .
+
+gndsc:32.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "32.2" .
+
+gndsc:27.3d  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.3d" .
+
+gndsc:10.14p  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.14p" .
+
+gndsc:10.11e  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.11e" .
+
+gndsc:7.14p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.14p" .
+
+gndsc:3.5cb  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.5cb" .
+
+gndsc:3.1p  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.1p" .
+
+gndsc:00p  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "00p" .
+
+gndsc:10.11p  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.11p" .
+
+gndsc:9.5b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.5b" .
+
+gndsc:2  a             gndsc:GndSubjectCategoryValue ;
+        skos:notation  "2" .
+
+gndsc:31  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31" .
+
+gndsc:27.21  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.21" .
+
+gndsc:16.4  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "16.4" .
+
+gndsc:12.2b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "12.2b" .
+
+gndsc:4.4  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "4.4" .
+
+gndsc:10.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.1" .
+
+gndsc:11.2a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "11.2a" .
+
+gndsc:8.2a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "8.2a" .
+
+gndsc:9.2b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.2b" .
+
+gndsc:31.15  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.15" .
+
+gndsc:7.9b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.9b" .
+
+gndsc:10.9b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.9b" .
+
+gndsc:23.1b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "23.1b" .
+
+gndsc:10.6b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.6b" .
+
+gndsc:7.6b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.6b" .
+
+gndsc:17.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "17.1" .
+
+gndsc:27.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.2" .
+
+gndsc:5.1  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "5.1" .
+
+gndsc:35p  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "35p" .
+
+gndsc:6.3a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.3a" .
+
+gndsc:10.3b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.3b" .
+
+gndsc:11.3c  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "11.3c" .
+
+gndsc:9.3d  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.3d" .
+
+gndsc:16.4c  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "16.4c" .
+
+gndsc:13  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13" .
+
+gndsc:10.2dc  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.2dc" .
+
+gndsc:10.2ac  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.2ac" .
+
+gndsc:19.1dp  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.1dp" .
+
+gndsc:31.1a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.1a" .
+
+gndsc:32.1b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "32.1b" .
+
+gndsc:9.5  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.5" .
+
+gndsc:15.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "15.2" .
+
+gndsc:25.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "25.3" .
+
+gndsc:3.2  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.2" .
+
+gndsc:25  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "25" .
+
+gndsc:27.15  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.15" .
+
+gndsc:32.8  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "32.8" .
+
+gndsc:5.1b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "5.1b" .
+
+gndsc:8.4p  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "8.4p" .
+
+gndsc:16.5p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "16.5p" .
+
+gndsc:10.2ep  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.2ep" .
+
+gndsc:8.1p  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "8.1p" .
+
+gndsc:13.1bp  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.1bp" .
+
+gndsc:3.5b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.5b" .
+
+gndsc:6.8p  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.8p" .
+
+gndsc:7.15b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.15b" .
+
+gndsc:7.5f  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.5f" .
+
+gndsc:7.6  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.6" .
+
+gndsc:13.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "13.3" .
+
+gndsc:23.4  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "23.4" .
+
+gndsc:8  a             gndsc:GndSubjectCategoryValue ;
+        skos:notation  "8" .
+
+gndsc:3.2b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.2b" .
+
+gndsc:10.7  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.7" .
+
+gndsc:10.12b  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.12b" .
+
+gndsc:7.12b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.12b" .
+
+gndsc:31.10  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.10" .
+
+gndsc:27.1a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.1a" .
+
+gndsc:29p  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "29p" .
+
+gndsc:10.13  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.13" .
+
+gndsc:34.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "34.2" .
+
+gndsc:7.13  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.13" .
+
+gndsc:8.3  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "8.3" .
+
+gndsc:24.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "24.1" .
+
+gndsc:31.3p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.3p" .
+
+gndsc:27.8  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.8" .
+
+gndsc:19.4a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.4a" .
+
+gndsc:26p  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "26p" .
+
+gndsc:5.7  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "5.7" .
+
+gndsc:21.5  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "21.5" .
+
+gndsc:31.6  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.6" .
+
+gndsc:25.2a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "25.2a" .
+
+gndsc:19  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19" .
+
+gndsc:19.1a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.1a" .
+
+gndsc:20p  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "20p" .
+
+gndsc:3.5ba  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3.5ba" .
+
+gndsc:27.9e  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.9e" .
+
+gndsc:12.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "12.1" .
+
+gndsc:9.4a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.4a" .
+
+gndsc:27.10  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.10" .
+
+gndsc:20  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "20" .
+
+gndsc:6.4  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "6.4" .
+
+gndsc:22.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "22.2" .
+
+gndsc:32.3  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "32.3" .
+
+gndsc:9.1a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.1a" .
+
+gndsc:12.1a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "12.1a" .
+
+gndsc:27.3e  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "27.3e" .
+
+gndsc:10.11f  a        gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.11f" .
+
+gndsc:7.8a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.8a" .
+
+gndsc:10.8a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.8a" .
+
+gndsc:30m  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "30m" .
+
+gndsc:2.1p  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "2.1p" .
+
+gndsc:19.1  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.1" .
+
+gndsc:7.5a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.5a" .
+
+gndsc:7.1  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.1" .
+
+gndsc:9.5c  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "9.5c" .
+
+gndsc:32  a            gndsc:GndSubjectCategoryValue ;
+        skos:notation  "32" .
+
+gndsc:3  a             gndsc:GndSubjectCategoryValue ;
+        skos:notation  "3" .
+
+gndsc:16.5  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "16.5" .
+
+gndsc:10.2  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.2" .
+
+gndsc:7.2a  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.2a" .
+
+gndsc:11.2b  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "11.2b" .
+
+gndsc:4.5  a           gndsc:GndSubjectCategoryValue ;
+        skos:notation  "4.5" .
+
+gndsc:10.2a  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.2a" .
+
+gndsc:8.2b  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "8.2b" .
+
+gndsc:31.16  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "31.16" .
+
+gndsc:10.9c  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "10.9c" .
+
+gndsc:19.3p  a         gndsc:GndSubjectCategoryValue ;
+        skos:notation  "19.3p" .
+
+gndsc:7.6c  a          gndsc:GndSubjectCategoryValue ;
+        skos:notation  "7.6c" .
